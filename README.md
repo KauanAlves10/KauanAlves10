@@ -1,2 +1,3 @@
-São Paulo 
-Neymar 
+São Paulo;
+Neymar;
+Bmw
